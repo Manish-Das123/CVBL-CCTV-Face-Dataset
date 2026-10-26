@@ -50,4 +50,4 @@ The request should be submitted or endorsed by an authorized faculty member or p
 
 Any research work or public publication based directly or indirectly on the CVBL-CCTV-Face Dataset should cite:
 
-M. Das, A. K. Yadav, S. R. Dubey, and S. K. Singh, "CVBL-CCTV-Face Dataset for Real-World Face Enhancement and Recognition in Surveillance", 5th IEEE International Conference on Computer Vision and Machine Intelligence (CVMI), Pune, India, Oct.–Nov. 2026 (Accepted).
+M. Das, A. K. Yadav, S. R. Dubey, and S. K. Singh, "CVBL-CCTV-Face Dataset for Real-World Face Enhancement and Recognition in Surveillance", 5th IEEE International Conference on Computer Vision and Machine Intelligence (CVMI), Pune, India, Oct.–Nov. 2026.

@@ -42,7 +42,7 @@ The CVBL-CCTV-Face Dataset includes several challenging face appearances observe
 
 The CVBL-CCTV-Face Dataset is made available for **approved research use** through a controlled-access request process.
 
-To request access, please download and complete the **[CVBL-CCTV-Face Dataset License Agreement](CVBL-CCTV-Face%20Dataset%20License%20Agreement.pdf)** and email the signed form to **[pmm2023001@iiita.ac.in](mailto:pmm2023001@iiita.ac.in)**.
+To request access, please download and complete the **[CVBL-CCTV-Face Dataset License Agreement](CVBL-CCTV-Face%20Dataset%20License%20Agreement.pdf)** and email the signed form to ** [srdubey@iiita.ac.in](mailto:srdubey@iiita.ac.in) and [pmm2023001@iiita.ac.in](mailto:pmm2023001@iiita.ac.in)**.
  Note that the license form must be filled out by a faculty member who is the Lab Incharge/Head of Department/Head of Institute. A dataset download link will be shared after the request has been reviewed and approved. **Please do not redistribute, publicly post, or otherwise share the facial images without written authorization.**
 
 ## Citation

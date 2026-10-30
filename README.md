@@ -5,6 +5,8 @@
 **Manish Das, Ajay Kumar Yadav, Shiv Ram Dubey, and Satish Kumar Singh**  
 Computer Vision and Biometrics Lab (CVBL), Indian Institute of Information Technology Allahabad, India.
 
+**Paper:** [Read the Paper on arXiv (PDF)](https://arxiv.org/pdf/2610.36781)
+
 ## Introduction
 
 The **CVBL-CCTV-Face Dataset** is a real-world facial image dataset developed for research on face enhancement and recognition under challenging CCTV surveillance conditions. Unlike datasets that rely primarily on high-quality images or synthetic degradations, CVBL-CCTV-Face contains authentic low-quality (LQ) face images captured using an **8MP IP Dome CCTV camera (EW-IP8050D)** in unconstrained indoor environments. High-quality (HQ) reference images were captured separately under controlled conditions. The LQ and HQ images are therefore **unpaired at the image level and not spatially aligned**, while corresponding to the same identities.
@@ -43,10 +45,19 @@ The CVBL-CCTV-Face Dataset includes several challenging face appearances observe
 The CVBL-CCTV-Face Dataset is made available for **approved research use** through a controlled-access request process.
 
 To request access, please download and complete the **[CVBL-CCTV-Face Dataset License Agreement](CVBL-CCTV-Face%20Dataset%20License%20Agreement.pdf)** and email the signed form to **[srdubey@iiita.ac.in](mailto:srdubey@iiita.ac.in)** and **[pmm2023001@iiita.ac.in](mailto:pmm2023001@iiita.ac.in)**.
- Note that the license form must be filled out by a faculty member who is the Lab Incharge/Head of Department/Head of Institute. A dataset download link will be shared after the request has been reviewed and approved. **Please do not redistribute, publicly post, or otherwise share the facial images without written authorization.**
+
+Note that the license form must be filled out by a faculty member who is the Lab Incharge/Head of Department/Head of Institute. A dataset download link will be shared after the request has been reviewed and approved. **Please do not redistribute, publicly post, or otherwise share the facial images without written authorization.**
 
 ## Citation
 
 Any research work or public publication based directly or indirectly on the CVBL-CCTV-Face Dataset should cite:
 
 M. Das, A. K. Yadav, S. R. Dubey, and S. K. Singh, "CVBL-CCTV-Face Dataset for Real-World Face Enhancement and Recognition in Surveillance", 5th IEEE International Conference on Computer Vision and Machine Intelligence (CVMI), Pune, India, Oct.–Nov. 2026.
+
+**Paper:** https://arxiv.org/pdf/2610.36781
+
+## Acknowledgment
+
+This work was supported by the **I-DAPT Hub Foundation, IIT (BHU) Varanasi**. We acknowledge the fellowship and research support from the **Indian Institute of Information Technology Allahabad**.
+
+We sincerely thank **Mr. Hritu Raj, Mr. Vikas Rajput, Mr. Samar Borkar, Mr. Anubhav, Mr. Shirshak Mandal, Mr. Govind Anand, and Mr. Prathmesh Pampattiwar** for their valuable support in the creation of the dataset used in this study.

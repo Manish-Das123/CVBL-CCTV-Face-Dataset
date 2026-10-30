@@ -5,7 +5,7 @@
 **Manish Das, Ajay Kumar Yadav, Shiv Ram Dubey, and Satish Kumar Singh**  
 Computer Vision and Biometrics Lab (CVBL), Indian Institute of Information Technology Allahabad, India.
 
-**Paper:** [Read the Paper on arXiv (PDF)](https://arxiv.org/pdf/2610.36781)
+**Paper:** [Read the Paper (PDF)](https://arxiv.org/pdf/2610.36781)
 
 ## Introduction
 
